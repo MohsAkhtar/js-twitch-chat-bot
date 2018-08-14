@@ -1,0 +1,22 @@
+{
+  "name": "twitch_chat_bot",
+  "version": "1.0.0",
+  "description": "A Twitch.tv chat bot built using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohsAkhtar/twitch_chat_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohsAkhtar/twitch_chat_bot/issues"
+  },
+  "homepage": "https://github.com/MohsAkhtar/twitch_chat_bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
